@@ -108,7 +108,7 @@ pip install torch torch-geometric scikit-learn matplotlib tqdm
 ### Run Model A (Baseline)
 ```bash
 # Open in Jupyter/Colab and run all cells
-jupyter notebook "Copy_of_9_Link_Prediction_on_MovieLens (2).ipynb"
+jupyter notebook "Link_prediction_on_movielens.ipynb"
 ```
 
 ### Run Model C (Enhanced) with different loss functions
